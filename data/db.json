@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.\n Unde commodi odit, laudantium enim minus consequuntur? Ipsa qui repellat quo nihil?\n Sunt aspernatur in repudiandae obcaecati dolor ipsa atque, doloribus voluptate.",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "My hero academia",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.\n Unde commodi odit, laudantium enim minus consequuntur? Ipsa qui repellat quo nihil?\n Sunt aspernatur in repudiandae obcaecati dolor ipsa atque, doloribus voluptate.",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Learn react",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.\n Unde commodi odit, laudantium enim minus consequuntur? Ipsa qui repellat quo nihil?\n Sunt aspernatur in repudiandae obcaecati dolor ipsa atque, doloribus voluptate.",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "azer",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, aut beatae eaque aspernatur sint iste. Excepturi pariatur nulla, asperiores dignissimos, odit laboriosam iusto, dolore saepe hic quisquam numquam aperiam consequatur?",
+      "author": "mario",
+      "id": 5
+    },
+    {
+      "title": "ali",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, aut beatae eaque aspernatur sint iste. Excepturi pariatur nulla, asperiores dignissimos, odit laboriosam iusto, dolore saepe hic quisquam numquam aperiam consequatur?",
+      "author": "yoshi",
+      "id": 6
+    }
+  ]
+}
