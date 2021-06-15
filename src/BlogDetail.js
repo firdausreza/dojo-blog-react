@@ -3,11 +3,11 @@ import useFetch from "./useFetch";
 
 const BlogDetail = () => {
   const { id } = useParams();
-  const { data: blog, isPending, error } = useFetch(`http://localhost:8000/blogs/${id}`);
+  const { data: blog, isPending, error } = useFetch(`https://json-dojo-blog.herokuapp.com/blogs/${id}`);
   const hist = useHistory();
 
   const handleDelete = () => {
-    fetch('http://localhost:8000/blogs/' + blog.id, {
+    fetch('https://json-dojo-blog.herokuapp.com/blogs/' + blog.id, {
       method: 'DELETE'
     }).then(() => {
       hist.push("/");
